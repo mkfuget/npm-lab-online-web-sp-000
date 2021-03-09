@@ -1,6 +1,5 @@
 # Node Package Management Code-Along
 
-## Overview
 
 When using npm, it is often the case that we aren't familiar with _all_ of the
 code in the dependency tree. Building modern JavaScript applications relies on
